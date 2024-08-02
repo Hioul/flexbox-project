@@ -1,0 +1,14 @@
+* {
+  /* border: red solid 1px; */
+}
+
+body {
+  margin: 0;
+
+}
+
+.hero {
+  background-color: #1f2937;
+  color: #F5F6F8;
+}
+
